@@ -11,10 +11,10 @@ document.getElementById('history')
 
         // Set History Button BG
         document.getElementById('history').classList.remove('btn-outline')
-        document.getElementById('history').classList.add('bg-primary')
+        document.getElementById('history').classList.add('primaryColor')
 
         // Remove Donate Button BG
-        document.getElementById('donate').classList.remove('bg-primary')
+        document.getElementById('donate').classList.remove('primaryColor')
         document.getElementById('donate').classList.add('btn-outline')
 
 
